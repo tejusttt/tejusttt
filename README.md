@@ -8,7 +8,7 @@ I'm Tejas, a passionate and enthusiastic data enthusiast eager to make an impact
 
 ## Skills
 
-Here are the logos of some of the skills I possess:
+Here are some of the skills I possess:
 
 ![Excel Logo](/logos/icons8-excel-48.png)
 ![Power BI Logo](https://img.icons8.com/color/48/000000/power-bi.png)
