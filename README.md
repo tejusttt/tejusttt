@@ -10,12 +10,13 @@ I'm [Your Name], a passionate and enthusiastic data enthusiast eager to make an 
 
 Here are the logos of some of the skills I possess:
 
-![Excel Logo](/images/excel_logo.png)
+![Excel Logo](/logos/icons8-excel-48.png)
 ![Power BI Logo](https://img.icons8.com/color/48/000000/power-bi.png)
-![SQL Logo](/images/sql_logo.png)
-![Pandas Logo](/images/pandas_logo.png)
-![NumPy Logo](/images/numpy_logo.png)
-![Matplotlib Logo](/images/matplotlib_logo.png)
+![SQL Logo](/logos/icons8-sql-60.png)
+![Python Logo](/logos/icons8-python-48.png)
+![Pandas Logo](/logos/icons8-pandas-48.png)
+![NumPy Logo](/logos/icons8-numpy-48.png)
+![Matplotlib Logo](/logos/Matplotlib.png)
 Welcome to my GitHub profile!
 
 ## About Me
