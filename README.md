@@ -22,10 +22,9 @@ Here are some of the skills I possess:
 
 Here are some of the data analysis projects I've worked on:
 
-1. Project Name 1
-   - Description: [Briefly describe the project and its objectives.]
+1. Revenue_Insight(Hospitality-Domain)
    - Tools used: Excel, Power BI
-   - Repository: [Link to the project's repository]
+   - Repository: [https://github.com/tejusttt/Revenue_Insight-Hospitality-Domain-Dashboard]
 
 2. Project Name 2
    - Description: [Briefly describe the project and its objectives.]
