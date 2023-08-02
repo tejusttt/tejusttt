@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-I'm [Tejas], a passionate and enthusiastic data enthusiast eager to make an impact in the world of data analysis. My journey in the data field has just begun, and I'm excited to explore, learn, and contribute to meaningful projects.
+I'm Tejas, a passionate and enthusiastic data enthusiast eager to make an impact in the world of data analysis. My journey in the data field has just begun, and I'm excited to explore, learn, and contribute to meaningful projects.
 
 ## Skills
 
