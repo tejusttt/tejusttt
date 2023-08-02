@@ -26,10 +26,9 @@ Here are some of the data analysis projects I've worked on:
    - Tools used: Excel, Power BI
    - Repository: [https://github.com/tejusttt/Revenue_Insight-Hospitality-Domain-Dashboard]
 
-2. Project Name 2
-   - Description: [Briefly describe the project and its objectives.]
-   - Tools used: SQL, Pandas, Matplotlib
-   - Repository: [Link to the project's repository]
+2. Supply_Chain_Analytics
+   - Tools used: Excel,Power BI
+   - Repository: [https://github.com/tejusttt/Supply_Chain_Analytics_Dashboard]
 
 
 ## Contact
