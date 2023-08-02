@@ -32,7 +32,7 @@ Here are some of the data analysis projects I've worked on:
 
 3. HR_Analytics
    - Tools used: Excel,Power BI
-   - Repository: []    
+   - Repository: [https://github.com/tejusttt/Hr_Data_Analytics_dashboard]    
 
 ## Contact
 
