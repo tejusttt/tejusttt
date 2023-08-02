@@ -30,6 +30,9 @@ Here are some of the data analysis projects I've worked on:
    - Tools used: Excel,Power BI
    - Repository: [https://github.com/tejusttt/Supply_Chain_Analytics_Dashboard]
 
+3. HR_Analytics
+   - Tools used: Excel,Power BI
+   - Repository: []    
 
 ## Contact
 
