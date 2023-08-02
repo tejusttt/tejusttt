@@ -18,8 +18,6 @@ Here are some of the skills I possess:
 ![NumPy Logo](/logos/icons8-numpy-48.png)
 ![Matplotlib Logo](/logos/Matplotlib.png)
 
-Welcome to my GitHub profile!
-
 ## Projects
 
 Here are some of the data analysis projects I've worked on:
