@@ -1,41 +1,68 @@
-# Hi there! 👋
+🕶️ Tejas Gorule
 
-Welcome to my GitHub profile!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Initializing+Terminal...;Access+Granted+✔;Cybersecurity+Mode+Active;Welcome+Tejas" />
+</p>---
 
-## About Me
+<details>
+<summary>🧬 SYSTEM ACCESS PANEL</summary>$ whoami
+Tejas Gorule
 
-I'm Tejas, a passionate and enthusiastic data enthusiast eager to make an impact in the world of data analysis. My journey in the data field has just begun, and I'm excited to explore, learn, and contribute to meaningful projects.
+$ status
+Cybersecurity Enthusiast
 
-## Skills
+$ mode
+Learning | Recon | Exploit | Repeat
 
-Here are some of the skills I possess:
+</details>---
 
-![Excel Logo](/logos/icons8-excel-48.png)
-![Power BI Logo](https://img.icons8.com/color/48/000000/power-bi.png)
-![SQL Logo](/logos/icons8-sql-60.png)
-![Python Logo](/logos/icons8-python-48.png)
-![Pandas Logo](/logos/icons8-pandas-48.png)
-![NumPy Logo](/logos/icons8-numpy-48.png)
-![Matplotlib Logo](/logos/Matplotlib.png)
+<details>
+<summary>🔐 OPEN SESSION</summary>$ session --start
 
-## Projects
+[+] Identity verified
+[+] Secure channel established
+[+] Environment loaded
 
-Here are some of the data analysis projects I've worked on:
+> You are now inside Tejas's workspace
 
-1. Revenue_Insight(Hospitality-Domain)
-   - Tools used: Excel, Power BI
-   - Repository: [https://github.com/tejusttt/Revenue_Insight-Hospitality-Domain-Dashboard]
+</details>---
 
-2. Supply_Chain_Analytics
-   - Tools used: Excel,Power BI
-   - Repository: [https://github.com/tejusttt/Supply_Chain_Analytics_Dashboard]
+<details>
+<summary>⚔️ TOOLKIT</summary>Languages     : Python, Bash, JavaScript
+OS            : Kali Linux, Ubuntu
+Networking    : TCP/IP, DNS, HTTP/HTTPS
 
-3. HR_Analytics
-   - Tools used: Excel,Power BI
-   - Repository: [https://github.com/tejusttt/Hr_Data_Analytics_dashboard]    
+Web Security  : XSS, SQLi, CSRF, IDOR
 
-## Contact
+Tools         : Nmap, Burp Suite, Wireshark, Metasploit
 
-I'm open to collaborations, discussions, and learning from others in the data community. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) or [email](mailto:tejasgorule39@gmail.com).
+</details>---
 
-Let's connect and grow together in the fascinating world of data analysis! 🚀
+<details>
+<summary>🧪 CURRENT PROJECTS</summary>[+] Recon Automation Tool
+[+] Web Vulnerability Scanner
+[+] Payload Generator
+
+</details>---
+
+<details>
+<summary>🧠 LIVE FEED</summary><!--START_SECTION:quotes-->«"Security is not a product, it's a mindset."»
+
+<!--END_SECTION:quotes--></details>---
+
+<details>
+<summary>🛰️ CONNECT</summary>LinkedIn : www.linkedin.com/in/tejas-gorule
+Email    : tejasgorule39@gmail.com
+
+</details>---
+
+<details>
+<summary>☠️ TERMINATE SESSION</summary>$ exit
+
+> clearing traces...
+> disconnecting...
+> session closed.
+
+</details>---
+
+<!-- Hidden Message --><!-- If you found this, you're already thinking like a hacker 🕵️ -->
